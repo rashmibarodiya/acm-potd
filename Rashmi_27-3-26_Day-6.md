@@ -33,5 +33,6 @@ This solution uses:
 ---
 
 ##  Code
-```java
+
+
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2f372133-ec9a-4d35-80f2-cd98abf79547" />
