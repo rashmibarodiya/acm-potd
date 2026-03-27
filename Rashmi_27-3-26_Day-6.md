@@ -34,5 +34,4 @@ This solution uses:
 
 ##  Code
 
-
-<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/2f372133-ec9a-4d35-80f2-cd98abf79547" />
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/a2199061-46ec-408c-bf07-58fca54cd599" />
